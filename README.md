@@ -1,5 +1,5 @@
 
-# Kaggle Practice Notebooks 🚀
+# Kaggle Practice Notebooks
 
 This repository contains my practice notebooks where I learn, experiment, and apply different data science and machine learning techniques using various Kaggle datasets.
 
@@ -40,11 +40,6 @@ These notebooks are part of my self-learning journey to:
 - SHAP
 - TensorFlow / Keras (for neural networks)
 - Jupyter Notebook
-
-## 📈 Status
-
-✅ Active practice  
-✅ Open for improvements and future experiments
 
 ## 📣 Note
 
