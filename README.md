@@ -16,6 +16,9 @@ This repository contains my practice notebooks where I learn, experiment, and ap
 
 - **Stroke Risk Prediction (XGBoost + SMOTE + SHAP)**  
   Predicting stroke risk with XGBoost, using SMOTE for class imbalance and SHAP for explainability.
+  
+- **Titanic Survival Prediction (Baseline ML)**
+  A straightforward machine learning approach to predict passenger survival on the Titanic dataset.
 
 - **Student Performance in Exam**  
   Analyzing and predicting student exam scores using different features.
