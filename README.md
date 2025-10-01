@@ -25,7 +25,7 @@ This repository contains my practice notebooks where I learn, experiment, and ap
 
 - **Used Vehicle Price Prediction (Full EDA & ML)**  
   End-to-end project: Exploratory Data Analysis and Machine Learning to predict used vehicle prices.
-- **Face Mask Detection (CNN)
+- **Face Mask Detection (CNN)**
   Detecting whether a person is wearing a mask or not using Convolutional Neural Networks on image data.
 
 ## 📌 Purpose
