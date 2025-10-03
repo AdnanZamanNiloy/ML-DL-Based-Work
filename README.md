@@ -25,9 +25,13 @@ This repository contains my practice notebooks where I learn, experiment, and ap
 
 - **Used Vehicle Price Prediction (Full EDA & ML)**  
   End-to-end project: Exploratory Data Analysis and Machine Learning to predict used vehicle prices.
-- **Face Mask Detection (CNN)**
+  
+- **Face Mask Detection using Tensorflow**
   Detecting whether a person is wearing a mask or not using Convolutional Neural Networks on image data.
-
+  
+- **Fake News Detection using Logistic Regression**
+  Detecting whether a news article is fake or real using Logistic Regression on textual data (with preprocessing and TF-IDF features).
+  
 ## 📌 Purpose
 
 These notebooks are part of my self-learning journey to:
