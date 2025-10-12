@@ -31,7 +31,8 @@ This repository contains my practice notebooks where I learn, experiment, and ap
   
 - **Fake News Detection using Logistic Regression**
   Detecting whether a news article is fake or real using Logistic Regression on textual data (with preprocessing and TF-IDF features).
-  
+- **Amazon Product Sales Analysis and Price Prediction**
+  Performing Exploratory Data Analysis (EDA) and applying multiple regression models — including Linear Regression, Decision Tree, Random Forest, Gradient Boosting, and XGBoost — to predict discounted product prices on Amazon.  
 ## 📌 Purpose
 
 These notebooks are part of my self-learning journey to:
